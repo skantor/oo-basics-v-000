@@ -8,7 +8,7 @@ class Shoe
     @brand = brand 
   end 
 
-  def cobble(condition)
+  def cobble
     condition = "new"
   end
 
